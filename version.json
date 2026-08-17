@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "1.5.16",
-  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.16/lingji-v1.5.16.apk",
-  "note": "首发版本：新增应用内自更新功能",
+  "versionCode": 76,
+  "versionName": "1.5.17",
+  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.17/lingji-v1.5.17.apk",
+  "note": "字号对齐剪映：默认12号，范围1~100，修复字号换算",
   "force": false
 }
