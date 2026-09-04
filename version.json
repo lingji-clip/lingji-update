@@ -2,6 +2,6 @@
   "versionCode": 79,
   "versionName": "1.5.20",
   "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.20/lingji-v1.5.20.apk",
-  "note": "1. 应用内更新包瘦身：更新下载体积从 236MB 降至约 67MB，更新速度大幅提升\n2. 语音识别模型自动迁移到本机存储，升级后识别功能不受影响",
+  "note": "1. 更新包体积优化：语音识别模型自动迁移至本机存储，之后的更新包将从 236MB 缩至约 67MB\n2. 本次为过渡版本，仍含完整模型，下载稍大请耐心等待",
   "force": false
 }
