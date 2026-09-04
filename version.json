@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "1.5.18",
-  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.18/lingji-v1.5.18.apk",
-  "note": "修复更新下载：镜像优先，几秒内开始下载",
+  "versionCode": 78,
+  "versionName": "1.5.19",
+  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.19/lingji-v1.5.19.apk",
+  "note": "1. 操作优化：双击进入多选（原长按），长按行可拖动排序（原右侧把手）\\n2. 字幕条更紧凑：不再显示时间、单行显示，一屏能看到更多内容",
   "force": false
 }
