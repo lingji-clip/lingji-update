@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "1.5.46",
-  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.46/lingji-v1.5.46.apk",
-  "note": "1. 预选片段拖拽重做：跟手、可自动滚动拖到列表末尾、其他条目平滑让位；2. 页签切换更流畅（跨区点击不再卡）；3. 上一版内容一并包含。",
+  "versionCode": 107,
+  "versionName": "1.5.47",
+  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.47/lingji-v1.5.47.apk",
+  "note": "1. 修复预选片段拖拽：往上拖不再反向跳动、快速拖动不再乱序，拖到列表边缘自动滚动更跟手；\n2. 界面细节统一（圆角、间距、字号），大字体机型显示更稳；\n3. 内部结构整理，功能与手感不变；含上一版全部内容。",
   "force": false
 }
