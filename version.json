@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "1.5.44",
-  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.44/lingji-v1.5.44.apk",
-  "note": "1. 字幕切点与断句重做：切点吸附到真实停顿，按停顿断句，不再出现吃字/带上一句/超30字硬切；2. 导出设置精简：去掉噪点、字幕模板、阴影、背景框，新增字幕颜色；3. 字幕上下位置改成画面百分比（0顶部-100底部，默认70%）；4. 镜像改为每10秒翻转一次，不再逐段随机翻；5. 新增界面字号设置，适配手机大字体；6. 导出后自动存相册并提示；7. 密钥解绑后旧设备会掉授权。",
+  "versionCode": 106,
+  "versionName": "1.5.46",
+  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.46/lingji-v1.5.46.apk",
+  "note": "1. 预选片段拖拽重做：跟手、可自动滚动拖到列表末尾、其他条目平滑让位；2. 页签切换更流畅（跨区点击不再卡）；3. 上一版内容一并包含。",
   "force": false
 }
