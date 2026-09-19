@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "1.5.47",
-  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.47/lingji-v1.5.47.apk",
-  "note": "1. 修复预选片段拖拽：往上拖不再反向跳动、快速拖动不再乱序，拖到列表边缘自动滚动更跟手；\n2. 界面细节统一（圆角、间距、字号），大字体机型显示更稳；\n3. 内部结构整理，功能与手感不变；含上一版全部内容。",
+  "versionCode": 108,
+  "versionName": "1.5.48",
+  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.48/lingji-v1.5.48.apk",
+  "note": "1. 识别字幕切点全面重做：开头不再抢跑、结尾不再带上下一句的尾音，断句更贴自然停顿，长句不会切碎词；\n2. 修复长视频识别时闪退（内存不足）；\n3. 预选片段拖拽重构：拖到列表最上方不再错乱，快速拖动顺序稳定，拖到边缘自动滚动更跟手；\n4. 新增「搜索全部字幕」：字幕页右上角放大镜，输入关键词跨全部素材搜索，命中的字幕可直接试看/编辑/加预选；\n5. 其它稳定性优化；含上一版全部内容。",
   "force": false
 }
