@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "1.5.48",
-  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.48/lingji-v1.5.48.apk",
-  "note": "1. 识别字幕切点全面重做：开头不再抢跑、结尾不再带上下一句的尾音，断句更贴自然停顿，长句不会切碎词；\n2. 修复长视频识别时闪退（内存不足）；\n3. 预选片段拖拽重构：拖到列表最上方不再错乱，快速拖动顺序稳定，拖到边缘自动滚动更跟手；\n4. 新增「搜索全部字幕」：字幕页右上角放大镜，输入关键词跨全部素材搜索，命中的字幕可直接试看/编辑/加预选；\n5. 其它稳定性优化；含上一版全部内容。",
+  "versionCode": 109,
+  "versionName": "1.5.49",
+  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.49/lingji-v1.5.49.apk",
+  "note": "1. 新增「整句」识别方式：在「设置 → 语音识别 → 本地识别模型」里可切换「SenseVoice（多语言·整句）」，一条字幕装更完整的句子，切点尽量落在真正的停顿处，字幕更长、切得更准；原来的「短句」方式完全保留，两种可随时切换；\n2. 两种识别方式分别记忆各自的字幕结果，切换后重新识别不会互相覆盖；\n3. 其它稳定性优化；含上一版全部内容。",
   "force": false
 }
