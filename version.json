@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.5.51",
-  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.51/lingji-v1.5.51.apk",
-  "note": "1. 修复导出的视频在手机相册里重复显示两条的问题（现在只保存一份，存到你在保存框里选定的位置；想让它出现在相册里，保存时选默认的「视频」目录即可）；\n2. 导出完成的提示不再显示「已存相册」；\n3. 其它稳定性优化；含上一版全部内容。",
+  "versionCode": 112,
+  "versionName": "1.5.52",
+  "url": "https://github.com/lingji-clip/lingji-update/releases/download/v1.5.52/lingji-v1.5.52.apk",
+  "note": "1. 修复导出的成片发不进微信的问题：以前微信会提示「不能分享这种格式的视频」，现在导出后可直接在微信里发送、发朋友圈；\n2. 导出完成的提示里会显示成片格式（H.264），可据此核对；\n3. 以前导出的老成片还是旧格式，需要重新导出一次才能发微信（旧文件可以先在相册里分享转发）；\n4. 其它稳定性优化；含上一版全部内容。",
   "force": false
 }
